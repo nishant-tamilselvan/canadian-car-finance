@@ -41,11 +41,11 @@
   "engines": {
     "node": ">=18.0.0"
   },
-  "author": "nishant-tamilselvan (https://github.com/nishant-tamilselvan)",
+  "author": "Nishant Tamilselvan (https://github.com/nishant-tamilselvan)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nishant-tamilselvan/canadian-car-finance"
+    "url": "git+https://github.com/nishant-tamilselvan/canadian-car-finance.git"
   },
   "homepage": "https://github.com/nishant-tamilselvan/canadian-car-finance#readme",
   "bugs": {
