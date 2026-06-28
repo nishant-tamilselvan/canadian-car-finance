@@ -1,6 +1,6 @@
 {
   "name": "canadian-car-finance",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Canadian car financing & leasing calculation utilities — amortization, lease formulas, provincial taxes, and dealer fee analysis",
   "type": "module",
   "main": "./dist/index.cjs",
