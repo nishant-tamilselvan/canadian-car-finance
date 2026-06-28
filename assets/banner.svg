@@ -1,0 +1,45 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian Car Finance</title>
+  <desc id="desc">A branded banner for the Canadian Car Finance package.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111f" />
+      <stop offset="0.55" stop-color="#0f2747" />
+      <stop offset="1" stop-color="#123c66" />
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="72" x2="1080" y2="248" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7dd3fc" />
+      <stop offset="1" stop-color="#38bdf8" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)" />
+  <circle cx="1038" cy="78" r="84" fill="#0ea5e9" fill-opacity="0.16" />
+  <circle cx="220" cy="246" r="116" fill="#38bdf8" fill-opacity="0.10" />
+  <path d="M114 214C114 199.64 125.64 188 140 188H1060C1074.36 188 1086 199.64 1086 214V236C1086 250.36 1074.36 262 1060 262H140C125.64 262 114 250.36 114 236V214Z" fill="#0b1728" fill-opacity="0.72" />
+
+  <text x="118" y="126" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="-1.8">
+    Canadian Car Finance
+  </text>
+  <text x="118" y="170" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="500">
+    Accurate loan, lease, tax, and dealer-fee calculations for Canadian car buyers.
+  </text>
+
+  <g transform="translate(118 214)">
+    <rect x="0" y="0" width="214" height="38" rx="19" fill="#0f172a" fill-opacity="0.78" stroke="#7dd3fc" stroke-opacity="0.25" />
+    <text x="18" y="25" fill="#e2e8f0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Correct tax math</text>
+    <circle cx="180" cy="19" r="6" fill="#22c55e" />
+  </g>
+
+  <g transform="translate(346 214)">
+    <rect x="0" y="0" width="224" height="38" rx="19" fill="#0f172a" fill-opacity="0.78" stroke="#7dd3fc" stroke-opacity="0.25" />
+    <text x="18" y="25" fill="#e2e8f0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Dealer-fee analysis</text>
+    <circle cx="188" cy="19" r="6" fill="#f59e0b" />
+  </g>
+
+  <g transform="translate(584 214)">
+    <rect x="0" y="0" width="194" height="38" rx="19" fill="#0f172a" fill-opacity="0.78" stroke="#7dd3fc" stroke-opacity="0.25" />
+    <text x="18" y="25" fill="#e2e8f0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Extensible rules</text>
+    <circle cx="160" cy="19" r="6" fill="#38bdf8" />
+  </g>
+</svg>

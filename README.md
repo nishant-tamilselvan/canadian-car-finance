@@ -1,14 +1,19 @@
-# canadian-car-finance
+# Canadian Car Finance
 
-> The calculation engine for Canadian car financing — correct tax math, honest dealer-fee analysis, and extensible constants you can update without forking.
+> The calculation engine for Canadian car financing. It keeps tax math accurate, surfaces dealer fees clearly, and exports extensible rules you can update without forking.
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Canadian Car Finance banner" width="960" />
+</p>
 
 [![npm version](https://img.shields.io/npm/v/canadian-car-finance)](https://www.npmjs.com/package/canadian-car-finance)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![tests](https://img.shields.io/github/actions/workflow/status/nishant-tamilselvan/canadian-car-finance/ci.yml?label=tests)](https://github.com/nishant-tamilselvan/canadian-car-finance/actions)
 [![zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)](package.json)
-[![Node ≥18](https://img.shields.io/node/v/canadian-car-finance)](package.json)
+[![Node >=18](https://img.shields.io/node/v/canadian-car-finance)](package.json)
 
-Powers the **[Car Expense Pro](https://github.com/nishant-tamilselvan/car-expense-pro)** web app.
+Powers the live **[Car Expense Pro](https://car-expense-pro-production.up.railway.app/)** web app.
+
+Designed for developers who need correct Canadian car finance and lease calculations without hidden assumptions.
 
 ---
 
