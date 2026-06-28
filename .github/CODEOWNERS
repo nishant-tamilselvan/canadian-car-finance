@@ -1,0 +1,5 @@
+# Default owner for the whole repository
+* @nishant-tamilselvan
+
+# Workflows require explicit owner review
+.github/workflows/* @nishant-tamilselvan

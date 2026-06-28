@@ -1,0 +1,33 @@
+name: Bug report
+description: Report incorrect behavior or results
+title: "bug: "
+labels:
+  - bug
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the bug and expected behavior.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: Provide steps and sample input to reproduce.
+      placeholder: |
+        1. Use this input...
+        2. Call this function...
+        3. Observe output...
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Node version, package version, OS.
+    validations:
+      required: true
