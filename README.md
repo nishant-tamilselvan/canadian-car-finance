@@ -8,12 +8,16 @@
 
 [![npm version](https://img.shields.io/npm/v/canadian-car-finance)](https://www.npmjs.com/package/canadian-car-finance)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![tests](https://img.shields.io/github/actions/workflow/status/nishant-tamilselvan/canadian-car-finance/ci.yml?branch=main&label=tests)](https://github.com/nishant-tamilselvan/canadian-car-finance/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/nishant-tamilselvan/canadian-car-finance/ci.yml?branch=main&label=CI)](https://github.com/nishant-tamilselvan/canadian-car-finance/actions/workflows/ci.yml)
 [![zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)](package.json)
 [![Node >=18](https://img.shields.io/node/v/canadian-car-finance)](package.json)
 
 Powers the live **[Car Expense Pro](https://car-expense-pro-production.up.railway.app/)** web app.
 
 Designed for developers who need correct Canadian car finance and lease calculations without hidden assumptions.
+
+See [CHANGELOG.md](CHANGELOG.md) for release notes and project history.
 
 ---
 
